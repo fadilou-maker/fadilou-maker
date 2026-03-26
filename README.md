@@ -1,7 +1,5 @@
 ## Hi there 👋
 /*<!--
-**fadilou-maker/fadilou-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 🔭 I’m currently working on theodinsproject.
 - 🌱 I’m currently learning more autodidact.
 - 👯 I’m looking to collaborate on all project, I can handle the parts others tend to avoid.
