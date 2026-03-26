@@ -1,5 +1,5 @@
 ## Hi there 👋
-/*
+
 - 🔭 I’m currently working on theodinsproject.
 - 🌱 I’m currently learning more autodidact.
 - 👯 I’m looking to collaborate on all project, I can handle the parts others tend to avoid.
@@ -8,4 +8,4 @@
 - 📫 How to reach me: radjifadilou@gmail.com
 - 😄 Pronouns: no.
 - ⚡ Fun fact: Bees can reocognize humans faces!
-*/
+
