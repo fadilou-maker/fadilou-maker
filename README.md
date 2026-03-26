@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on theodinsproject.
+- 🔭 I’m currently learning on theodinsproject.
 - 🌱 I’m currently learning more autodidact.
 - 👯 I’m looking to collaborate on all project, I can handle the parts others tend to avoid.
 - 🤔 I’m looking for help with in c, c++, python, nodejs, javascript.
