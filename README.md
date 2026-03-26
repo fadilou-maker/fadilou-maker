@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--
+/*<!--
 **fadilou-maker/fadilou-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on theodinsproject.
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: radjifadilou@gmail.com
 - 😄 Pronouns: no.
 - ⚡ Fun fact: Bees can reocognize humans faces!
--->
+-->*/
